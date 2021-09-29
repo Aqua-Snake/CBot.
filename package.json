@@ -2,7 +2,7 @@
   "name": "CBot",
   "version": "1.3.2",
   "description": "Cyber Bot project - a Whatsapp userbot for work easy .",
-  "main": "./CBot/bot.js",
+  "main": "./CBot./bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
